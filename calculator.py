@@ -11,5 +11,5 @@ def multiply(a, b):
     return a*b
 
 
-def divide_premium(a, b):
+def diveide_new(a, b):
     return a/b
