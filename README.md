@@ -1,3 +1,6 @@
 ##수학 계산을 위한 코드를 제공하는 프로젝트
+
 **1. Calculator.py  : 계산기의 있는 기능들을 제공하는 모듈
-- add, subtract, multiply 등
+- add, subtract, multiply, divide 등
+
+**Add free branch & premium branch 
