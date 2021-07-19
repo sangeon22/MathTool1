@@ -2,5 +2,3 @@
 
 **1. Calculator.py  : 계산기의 있는 기능들을 제공하는 모듈
 - add, subtract, multiply, divide 등
-
-**Add free branch & premium branch 
